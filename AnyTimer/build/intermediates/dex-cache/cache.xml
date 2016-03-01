@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Gs/Documents/AndroidStudioProjects/timer/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1757ded175788fa06b442263dc135b96489e214f">
+        <dex dex="/Users/Gs/Documents/AndroidStudioProjects/timer/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_fe2f6e35b5a78e58e1f568a67fb15171fe4ad1c8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Gs/Documents/AndroidStudioProjects/timer/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c164a268de20a97f8cdb57506edb5c54a87c028">
+        <dex dex="/Users/Gs/Documents/AndroidStudioProjects/timer/app/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_5fb3560fae8e36baf1183194e0aff506c2edcf11/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Gs/Documents/AndroidStudioProjects/timer/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0903cfa87cb79eb57080ee4ef60a31201902edf3">
+        <dex dex="/Users/Gs/Documents/AndroidStudioProjects/timer/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_c0cb3c84be4a4bee9dab6aa26c02d2eb9121ab8f/classes.dex" />
+    </item>
+
+</items>

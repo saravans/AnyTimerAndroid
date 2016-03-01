@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Gs/Documents/AndroidStudioProjects/app/build/intermediates/res/merged/debug/layout-v11/abc_screen_content_include.xml",
+        "source": "/Users/Gs/Documents/AndroidStudioProjects/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout-v11/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Gs/Documents/AndroidStudioProjects/timer/app/build/intermediates/res/merged/debug/layout-v11/abc_screen_content_include.xml",
+        "source": "/Users/Gs/Documents/AndroidStudioProjects/timer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout-v11/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Gs/Documents/AndroidStudioProjects/timer/AnyTimer/app/build/intermediates/res/merged/debug/layout-v11/abc_screen_content_include.xml",
+        "source": "/Users/Gs/Documents/AndroidStudioProjects/timer/AnyTimer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout-v11/abc_screen_content_include.xml"
+    }
+]

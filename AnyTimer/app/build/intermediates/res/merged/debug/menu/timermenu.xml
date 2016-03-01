@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu2"
+   		 android:icon="@drawable/stopwatch" 
+        android:title="Stopwatch"/>
+    <item android:id="@+id/menu3"
+        android:title="About Us"
+        android:icon="@drawable/about" />
+</menu>

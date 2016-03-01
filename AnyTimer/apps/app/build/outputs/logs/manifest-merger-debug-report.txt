@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:11
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:11
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:11
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-sdk
+ADDED from AndroidManifest.xml:7:5
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:7:15
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:9:5
+	android:name
+		ADDED from AndroidManifest.xml:9:22
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:11:5
+	android:name
+		ADDED from AndroidManifest.xml:11:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:12:5
+	android:name
+		ADDED from AndroidManifest.xml:12:22
+uses-feature#android.hardware.camera
+ADDED from AndroidManifest.xml:15:5
+	android:name
+		ADDED from AndroidManifest.xml:15:19
+uses-feature#android.hardware.camera.autofocus
+ADDED from AndroidManifest.xml:16:5
+	android:name
+		ADDED from AndroidManifest.xml:16:19
+uses-permission#android.permission.CAMERA
+ADDED from AndroidManifest.xml:18:5
+	android:name
+		ADDED from AndroidManifest.xml:18:22
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from AndroidManifest.xml:20:5
+	android:name
+		ADDED from AndroidManifest.xml:20:22
+uses-feature#0x00020000
+ADDED from AndroidManifest.xml:23:5
+	android:required
+		ADDED from AndroidManifest.xml:25:13
+	android:glEsVersion
+		ADDED from AndroidManifest.xml:24:13
+application
+ADDED from AndroidManifest.xml:27:5
+	android:label
+		ADDED from AndroidManifest.xml:28:13
+	android:icon
+		ADDED from AndroidManifest.xml:29:13
+	android:largeHeap
+		ADDED from AndroidManifest.xml:30:13
+activity#com.intel.inde.mp.samples.SamplesMainActivity
+ADDED from AndroidManifest.xml:32:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:34:17
+	android:name
+		ADDED from AndroidManifest.xml:33:17
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:35:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:36:17
+	android:name
+		ADDED from AndroidManifest.xml:36:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:38:17
+	android:name
+		ADDED from AndroidManifest.xml:38:27
+activity#com.intel.inde.mp.samples.GameCapturing
+ADDED from AndroidManifest.xml:42:9
+	android:label
+		ADDED from AndroidManifest.xml:45:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:44:17
+	android:name
+		ADDED from AndroidManifest.xml:43:17
+activity#com.intel.inde.mp.samples.GameStreaming
+ADDED from AndroidManifest.xml:47:9
+	android:label
+		ADDED from AndroidManifest.xml:50:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:49:17
+	android:name
+		ADDED from AndroidManifest.xml:48:17
+activity#com.intel.inde.mp.samples.ComposerTranscodeActivity
+ADDED from AndroidManifest.xml:52:9
+	android:label
+		ADDED from AndroidManifest.xml:55:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:54:17
+	android:name
+		ADDED from AndroidManifest.xml:53:17
+activity#com.intel.inde.mp.samples.ComposerTranscodeCoreActivity
+ADDED from AndroidManifest.xml:57:9
+	android:label
+		ADDED from AndroidManifest.xml:60:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:59:17
+	android:name
+		ADDED from AndroidManifest.xml:58:17
+activity#com.intel.inde.mp.samples.ComposerMediaFileInfoActivity
+ADDED from AndroidManifest.xml:62:9
+	android:label
+		ADDED from AndroidManifest.xml:65:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:64:17
+	android:name
+		ADDED from AndroidManifest.xml:63:17
+activity#com.intel.inde.mp.samples.ComposerMediaFileInfoCoreActivity
+ADDED from AndroidManifest.xml:66:9
+	android:label
+		ADDED from AndroidManifest.xml:69:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:68:17
+	android:name
+		ADDED from AndroidManifest.xml:67:17
+activity#com.intel.inde.mp.samples.ComposerJoinActivity
+ADDED from AndroidManifest.xml:71:9
+	android:label
+		ADDED from AndroidManifest.xml:74:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:73:17
+	android:name
+		ADDED from AndroidManifest.xml:72:17
+activity#com.intel.inde.mp.samples.ComposerJoinCoreActivity
+ADDED from AndroidManifest.xml:75:9
+	android:label
+		ADDED from AndroidManifest.xml:78:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:77:17
+	android:name
+		ADDED from AndroidManifest.xml:76:17
+activity#com.intel.inde.mp.samples.ComposerCutActivity
+ADDED from AndroidManifest.xml:80:9
+	android:label
+		ADDED from AndroidManifest.xml:83:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:82:17
+	android:name
+		ADDED from AndroidManifest.xml:81:17
+activity#com.intel.inde.mp.samples.ComposerCutCoreActivity
+ADDED from AndroidManifest.xml:84:9
+	android:label
+		ADDED from AndroidManifest.xml:87:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:86:17
+	android:name
+		ADDED from AndroidManifest.xml:85:17
+activity#com.intel.inde.mp.samples.ComposerVideoEffectActivity
+ADDED from AndroidManifest.xml:89:9
+	android:label
+		ADDED from AndroidManifest.xml:92:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:91:17
+	android:name
+		ADDED from AndroidManifest.xml:90:17
+activity#com.intel.inde.mp.samples.ComposerVideoEffectCoreActivity
+ADDED from AndroidManifest.xml:93:9
+	android:label
+		ADDED from AndroidManifest.xml:96:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:95:17
+	android:name
+		ADDED from AndroidManifest.xml:94:17
+activity#com.intel.inde.mp.samples.MediaStreamerActivity
+ADDED from AndroidManifest.xml:98:9
+	android:label
+		ADDED from AndroidManifest.xml:101:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:100:17
+	android:name
+		ADDED from AndroidManifest.xml:99:17
+activity#com.intel.inde.mp.samples.MediaStreamerCoreActivity
+ADDED from AndroidManifest.xml:102:9
+	android:label
+		ADDED from AndroidManifest.xml:105:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:104:17
+	android:name
+		ADDED from AndroidManifest.xml:103:17
+activity#com.intel.inde.mp.samples.CameraStreamerActivity
+ADDED from AndroidManifest.xml:107:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:110:17
+	android:label
+		ADDED from AndroidManifest.xml:111:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:109:17
+	android:name
+		ADDED from AndroidManifest.xml:108:17
+activity#com.intel.inde.mp.samples.VideoStreamPlayerActivity
+ADDED from AndroidManifest.xml:113:9
+	android:label
+		ADDED from AndroidManifest.xml:116:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:115:17
+	android:name
+		ADDED from AndroidManifest.xml:114:17
+activity#com.intel.inde.mp.samples.CameraCapturerActivity
+ADDED from AndroidManifest.xml:118:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:121:17
+	android:label
+		ADDED from AndroidManifest.xml:123:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:120:17
+	android:theme
+		ADDED from AndroidManifest.xml:122:17
+	android:name
+		ADDED from AndroidManifest.xml:119:17
+activity#com.intel.inde.mp.samples.ComposerAudioEffectActivity
+ADDED from AndroidManifest.xml:125:9
+	android:label
+		ADDED from AndroidManifest.xml:128:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:127:17
+	android:name
+		ADDED from AndroidManifest.xml:126:17
+activity#com.intel.inde.mp.samples.ComposerAudioEffectCoreActivity
+ADDED from AndroidManifest.xml:129:9
+	android:label
+		ADDED from AndroidManifest.xml:132:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:131:17
+	android:name
+		ADDED from AndroidManifest.xml:130:17
+activity#com.intel.inde.mp.samples.RecognitionActivity
+ADDED from AndroidManifest.xml:134:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:137:17
+	android:label
+		ADDED from AndroidManifest.xml:136:17
+	android:configChanges
+		ADDED from AndroidManifest.xml:138:17
+	android:name
+		ADDED from AndroidManifest.xml:135:17

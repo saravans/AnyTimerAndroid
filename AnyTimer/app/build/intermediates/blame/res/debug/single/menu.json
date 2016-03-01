@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Gs/Documents/AndroidStudioProjects/app/build/intermediates/res/merged/debug/menu/timermenu.xml",
+        "source": "/Users/Gs/Documents/AndroidStudioProjects/app/src/main/res/menu/timermenu.xml"
+    },
+    {
+        "merged": "/Users/Gs/Documents/AndroidStudioProjects/timer/app/build/intermediates/res/merged/debug/menu/timermenu.xml",
+        "source": "/Users/Gs/Documents/AndroidStudioProjects/timer/app/src/main/res/menu/timermenu.xml"
+    },
+    {
+        "merged": "/Users/Gs/Documents/AndroidStudioProjects/timer/AnyTimer/app/build/intermediates/res/merged/debug/menu/timermenu.xml",
+        "source": "/Users/Gs/Documents/AndroidStudioProjects/timer/AnyTimer/app/src/main/res/menu/timermenu.xml"
+    },
+    {
+        "merged": "/Users/Gs/Documents/AndroidStudioProjects/timer/AnyTimer/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Users/Gs/Documents/AndroidStudioProjects/timer/AnyTimer/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/Gs/Documents/AndroidStudioProjects/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Users/Gs/Documents/AndroidStudioProjects/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/Gs/Documents/AndroidStudioProjects/timer/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Users/Gs/Documents/AndroidStudioProjects/timer/app/src/main/res/menu/menu.xml"
+    }
+]

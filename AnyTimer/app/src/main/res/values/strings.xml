@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, StopwatchActivity!</string>
+    <string name="app_name">AnyTIMER</string>
+    <string name="timer">00:00:00</string>
+    <string name="startText">start</string>
+    <string name="resetText">Lap</string>
+    <string name="stopText">stop</string>
+    <string name="eventName"> Event Name</string>
+    <string name="otherDetails"> Bangalore 36* C</string>
+    <string name="date">20 MAY 2012 99:99AM</string>
+    <string name="timerLabel1">Lap Description </string>
+    <string name="timerLabel2">Lap</string>
+    <string name="timerLabel3">Total</string>
+    <string name="aboutus1">AnyTIMER v1.0</string>
+    <string name="aboutus2">©2012 teamSOULS</string>
+    <string name="aboutus3">All Rights Reserved</string>
+    <string name="emailaddress">digitalstopwatch@gmail.com</string>
+    <string name="taptoenter">Tap to enter value</string>
+
+</resources>
